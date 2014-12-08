@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a folder named .git and it track on changes made 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a intermediate zone between working directory and commit directory, that's all ?
+So, if we aren't sure about our changes we save this in the staging area first. Once it's all worked, we do a commit.
+if we do a commit each time we wanna save a small change, it can have a lot of commits, it's not a best way to use git
+
+How can you use the staging area to make sure you have one commit per logical change?
+I don't understand the question but I try to answer, I have to add all files which have been changed (in red) to the staging area and do a commit one time?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to try some new ideas and don't want to change a master branch. But the idea is the same of staging area or commit. Where the difference ?
+
+How do the diagrams help you visualize the branch structure?
+I can visualize all branches in the project
